@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.toml": "bat",
+        "ao3": "c",
+        "vector": "cpp"
+    }
+}
