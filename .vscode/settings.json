@@ -4,6 +4,7 @@
         "ao3": "c",
         "vector": "cpp",
         "iostream": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "xstring": "cpp"
     }
 }
